@@ -1,2 +1,2 @@
 print("Hello World")
-print("Data Mining")
+print("Data  Mining") 
